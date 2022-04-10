@@ -14,3 +14,10 @@ https://www.youtube.com/watch?v=c36lUUr864M
 
 ### Logistic regression solution
 ![logistic regression](https://user-images.githubusercontent.com/38970123/162631490-154440a5-7fcd-4ea3-8c5b-7008bb82807a.PNG)
+
+### solved problem
+Due to the different dimension and size of 2 dogs images: dog3 and dog4.jpeg, I first looked upon the size of the 1st image dog3.jpeg by using
+print(dog1_int.shape) 
+which has a size of (3, 798, 798)
+Then resizing is possbile by using the following code:
+dog2_int.resize_(3, 798, 798)
