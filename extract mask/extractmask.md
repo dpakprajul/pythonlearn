@@ -1,0 +1,1 @@
+This is how I created a mask from the given satellite image dataset
