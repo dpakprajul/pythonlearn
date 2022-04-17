@@ -21,3 +21,9 @@ print(dog1_int.shape)
 which has a size of (3, 798, 798)
 Then resizing is possbile by using the following code:
 dog2_int.resize_(3, 798, 798)
+
+### tutorial on Unet
+https://thecleverprogrammer.com/2020/07/22/image-segmentation/
+https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+https://www.tensorflow.org/tutorials/images/segmentation
+https://knowyourdata-tfds.withgoogle.com/#tab=STATS&dataset=oxford_iiit_pet
